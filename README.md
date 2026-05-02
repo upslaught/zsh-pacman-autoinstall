@@ -1,8 +1,8 @@
-# zsh-pacman-autoinstall
-A Zsh plugin that suggests Pacman packages for missing commands, inspired by Ubuntu's `command_not_found` handler.
+# zsh-pacman-autoinstall 
+A Zsh plugin that suggests Pacman packages for missing commands, inspired by Fedora's `PackageKit-command-not-found` handler.
 ## Preview
 
 <img src="./assets/preview.png" alt="Screenshot" />
 
 ## Installation
-Simply source the `zsh-pacman-autoinstall.plugin.zsh` file in your `.zshrc` configuration file.
+Simply source the `zsh-pacman-command-not-found.plugin.zsh` file in your `.zshrc` configuration file.
