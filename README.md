@@ -1,4 +1,4 @@
-# zsh-pacman-autoinstall 
+# zsh-pacman-command-not-found 
 A Zsh plugin that suggests Pacman packages for missing commands, inspired by Fedora's `PackageKit-command-not-found` handler.
 ## Preview
 
